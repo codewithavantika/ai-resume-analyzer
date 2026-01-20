@@ -1,8 +1,7 @@
 # AI Resume Analyzer
 
-**AI Resume Analyzer** is a Python tool that extracts skills from a PDF resume, compares them with a Job Description (JD), and provides a visual report showing matched and missing skills along with a match percentage. This project demonstrates practical skills in Python, AI, and resume analysis.
-
----
+An AI-powered Python tool that analyzes resumes against job descriptions using a local Large Language Model (LLM) via Ollama. Automatically identifies matched and missing skills, calculates a match percentage, and generates a structured visual report.
+Demonstrates hands-on experience in Python, AI, and resume analysis with structured JSON outputs.
 
 ## Features
 
@@ -14,7 +13,8 @@
 - Visualize results with  a pie chart
 - Interactive web interface using Gradio
 
----
+## Problem Statement
+Manual resume screening is slow, inconsistent, and error-prone. This tool automates resume evaluation, helping recruiters quickly identify candidate–job fit and skill gaps.
 
 ## Installation
 
@@ -74,7 +74,7 @@ ai-resume-analyzer/
 ├── requirements.txt
 └── Resume_1.pdf
 
-## echnologies Used
+## Technologies used
 
 1. Python
 
@@ -86,9 +86,16 @@ ai-resume-analyzer/
 
 5. Basic AI / Keyword Matching
 
+## Future Improvements
+
+1. Add advanced AI-based scoring for soft skills
+
+2. Streamlit integration for enhanced interface
+
+3. Cloud deployment for scalable resume analysis
+
 ## Author
+**Avantika Gupta**  
+📧 Email: avantikamahajan001@gmail.com  
+💻 GitHub: https://github.com/codewithavantika  
 
-Avantika Gupta
-📧 avantikamahajan001@gmail.com
-
-💻 GitHub
