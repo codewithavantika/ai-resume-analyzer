@@ -95,7 +95,7 @@ ai-resume-analyzer/
 3. Cloud deployment for scalable resume analysis
 
 ## Author
-**Avantika Gupta**  
+Avantika Gupta 
 📧 Email: avantikamahajan001@gmail.com  
 💻 GitHub: https://github.com/codewithavantika  
 
