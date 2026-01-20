@@ -1,0 +1,4 @@
+gradio
+matplotlib
+PyPDF2
+pdfminer.six
